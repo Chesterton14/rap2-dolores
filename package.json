@@ -73,7 +73,7 @@
     "redux-saga": "1.1.1",
     "reselect": "^4.0.0",
     "sortablejs": "1.10.0",
-    "urijs": "1.19.1",
+    "urijs": "1.19.11",
     "yup": "^0.27.0"
   },
   "standard": {
